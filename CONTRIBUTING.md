@@ -1,0 +1,1 @@
+To contribute to this project, please follow the guidelines provided in the code of conduct. Every form of contribution will be subject to and comply with the applicable laws and regulations and any approval made will be the full responsibility of the content creator.
